@@ -1,7 +1,7 @@
 # Breast_Cancer
 The project provides information about breast cancer to help doctors predict if a person has it.
 
-<img width="212" alt="B_C" src="https://github.com/damaniayesh/Breast_Cancer/assets/136892684/ee2733d5-4541-4bf7-a3bb-3ef900db827b">
+![Credit Card Approval Prediction (1)](https://github.com/damaniayesh/Breast_Cancer/assets/136892684/1dd71663-d489-4b02-bf14-376f3245c951)
 
 # Introduction
 - Breast cancer is a disease in which abnormal breast cells grow out of control and form tumours. If left unchecked, the tumours can spread throughout the body and become fatal.
